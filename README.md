@@ -30,22 +30,22 @@ A web-based **Student Management System** built using **Django** and **SQL** to 
 
 git clone https://github.com/your-username/Student-management-project.git
 cd Student-management-project
-2. Create Virtual Environment
+### 2. Create Virtual Environment
  python -m venv venv
-3. Activate Virtual Environment
+### 3. Activate Virtual Environment
  venv\Scripts\activate
-4. Install Dependencies
+### 4. Install Dependencies
 pip install -r requirements.txt
-5.Database Setup
+### 5.Database Setup
  python manage.py makemigrations
  python manage.py migrate
-6.Create a superuser to access Django admin:
+### 6.Create a superuser to access Django admin:
 python manage.py createsuperuser
-7.Running the Project
+### 7.Running the Project
 python manage.py runserver
 
 
-Contributing
+## Contributing
 
 Fork the repository
 
@@ -57,7 +57,7 @@ Push to the branch (git push origin feature-name)
 
 Open a Pull Request
 
-License
+## License
 
 This project is open-source and available under the MIT License.
 
