@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django Student Management System (beta)
 This is a Simple Student Management System Developed for Educational Purpose using Python (Django).
 Feel free to make changes based on your requirements.
@@ -162,3 +163,7 @@ Password: student
 1. Email - hi@vijaythapa.com
 2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
 
+=======
+# Student-management-project
+Student-management-project
+>>>>>>> 6fa2c94626f04f2d18c631e5189680250c267c89
